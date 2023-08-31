@@ -1,0 +1,26 @@
+[
+    {
+        "model": "levelupapi.game",
+        "pk": 1,
+        "fields": {
+            "game_type": 1,
+            "gamer": 1,
+            "name": "WingSpan",
+            "instructions": "Build the bird nests",
+            "num_of_players": 6,
+            "publisher": "Stonemaier LLC"
+        }
+    },
+    {
+        "model": "levelupapi.game",
+        "pk": 2,
+        "fields": {
+            "game_type": 2,
+            "gamer": 1,
+            "name": "D&D",
+            "instructions": "See Dungeon Master",
+            "num_of_players": 8,
+            "publisher": "D&D"
+        }
+    }
+]

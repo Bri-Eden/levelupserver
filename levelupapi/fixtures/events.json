@@ -1,0 +1,24 @@
+[
+    {
+        "model": "levelupapi.event",
+        "pk": 1,
+        "fields": {
+            "game": 1,
+            "organizer": 1,
+            "attendees": [],
+            "address": "123 Main St",
+            "date": "2023-08-30"
+        }
+    },
+    {
+        "model": "levelupapi.event",
+        "pk": 2,
+        "fields": {
+            "game": 2,
+            "organizer": 1,
+            "attendees": [],
+            "address": "1256 Long Rd",
+            "date": "2023-09-15"
+        }
+    }
+]
